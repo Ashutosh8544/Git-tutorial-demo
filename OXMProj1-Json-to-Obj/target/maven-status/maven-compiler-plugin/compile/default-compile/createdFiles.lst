@@ -1,0 +1,6 @@
+org\nendrasys\controller\UrlController.class
+org\nendrasys\service\StudentMgmtService.class
+org\nendrasys\service\StudentMgmtServiceImpl.class
+org\nendrasys\service\UrlService.class
+org\nendrasys\model\Student.class
+org\nendrasys\model\StudentList.class

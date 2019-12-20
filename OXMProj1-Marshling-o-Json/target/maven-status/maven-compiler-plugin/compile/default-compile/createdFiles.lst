@@ -1,0 +1,6 @@
+com\nendrasys\controller\StudentController.class
+com\nendrasys\service\StudentService.class
+com\nendrasys\Dao\StudentDao.class
+com\nendrasys\Dao\StudentResultSetExtractor.class
+com\nendrasys\studentdetails\Student.class
+com\nendrasys\studentdetails\StudentList.class

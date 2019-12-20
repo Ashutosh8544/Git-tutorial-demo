@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Marsh-unmarsh:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Marsh-unmarsh</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Marsh-unmarsh.war">
+      <element id="artifact" artifact-name="Marsh-unmarsh:war exploded" />
+    </root>
+  </artifact>
+</component>

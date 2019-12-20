@@ -1,4 +1,0 @@
-This is version 1.0 of my project
-this is the first project
-
-this is change now
